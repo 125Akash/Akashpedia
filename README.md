@@ -1,5 +1,7 @@
 # Akashpedia Website
 
+# Live Link To Site ==> https://akashpedia.vercel.app/
+
 Welcome to Akashpedia, a personal website showcasing the skills, projects, certificates, and more of a full-stack web developer, Akash. This website has been built using Next.js, a React framework, to provide a seamless and user-friendly experience. Below, you'll find information on how to navigate and explore the various sections of this website.
 
 ## Table of Contents
@@ -16,7 +18,7 @@ To get started with the Akashpedia website, you can follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/125Akash/akashpedia.git
    ```
 
 2. Install the required dependencies:
