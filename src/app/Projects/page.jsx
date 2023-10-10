@@ -63,6 +63,13 @@ const Projects = () => {
       githubLink: 'https://github.com/125Akash/BusyBuy_Ecommerce',
       
     },
+    {
+      title: 'Akash_Resume',
+      description: 'Build Using Simple Html ,css And Javascript',
+      liveLink: 'https://125akash.github.io/Akash_resume/',
+      githubLink: 'https://github.com/125Akash/Akash_resume',
+      
+    },
   ];
 
   return (
